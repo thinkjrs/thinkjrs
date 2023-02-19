@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Catch me on <a rel="me" href="https://hachyderm.io/@thinkjrs">Mastodon</a>!
+
 <!--
 **thinkjrs/thinkjrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
