@@ -12,7 +12,8 @@ I'm a quantitative software engineer, entrepreneur, and educator.
 - **Principal @ [Recondite Capital](https://reconditecapital.com)**  
   Transforming obscurity into value. Quantitative asset allocation, research, and software.
   
-![Recondite Capital](https://res.cloudinary.com/tincre/image/upload/v1744319238/github/bo4jn0fcthcgm4qbdjgh.gif)
+![Recondite Capital](https://res.cloudinary.com/tincre/image/upload/v1744319476/github/pxo66hv2tlbvnevzgy4f.gif)
+
 - **Founder @ [Grupo 0x2a](https://grupo0x2a.com)**  
   A Colombian software and media company focused on organic marketing, SaaS, and digital production.
 ![Grupo 0x2a SAS](https://res.cloudinary.com/tincre/image/upload/v1744319225/github/xi5uuw7ekblo3nlssuu2.gif)
