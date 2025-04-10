@@ -7,16 +7,23 @@ I'm a quantitative software engineer, entrepreneur, and educator.
 - **Co-Founder @ [b00st.com](https://b00st.com)**  
   Building the #1 ad platform for music & entertainment. A [Tincre](https://tincre.com) product.
 
-![b00st.com](https://res.cloudinary.com/tincre/image/upload/v1744319224/github/msssxcid4ft3xqk7xzsd.gif)
+<div style="border:1px solid #e5e7eb; border-radius:0.375rem; overflow:hidden; margin: 0.5rem 0; max-width: 100%;">
+  <img src="https://res.cloudinary.com/tincre/image/upload/v1744319224/github/msssxcid4ft3xqk7xzsd.gif" alt="b00st.com" style="width:100%; display:block;" />
+</div>
 
 - **Principal @ [Recondite Capital](https://reconditecapital.com)**  
   Transforming obscurity into value. Quantitative asset allocation, research, and software.
-  
-![Recondite Capital](https://res.cloudinary.com/tincre/image/upload/v1744319476/github/pxo66hv2tlbvnevzgy4f.gif)
+
+<div style="border:1px solid #e5e7eb; border-radius:0.375rem; overflow:hidden; margin: 0.5rem 0; max-width: 100%;">
+  <img src="https://res.cloudinary.com/tincre/image/upload/v1744319476/github/pxo66hv2tlbvnevzgy4f.gif" alt="Recondite Capital" style="width:100%; display:block;" />
+</div>
 
 - **Founder @ [Grupo 0x2a](https://grupo0x2a.com)**  
   A Colombian software and media company focused on organic marketing, SaaS, and digital production.
-![Grupo 0x2a SAS](https://res.cloudinary.com/tincre/image/upload/v1744319225/github/xi5uuw7ekblo3nlssuu2.gif)
+
+<div style="border:1px solid #e5e7eb; border-radius:0.375rem; overflow:hidden; margin: 0.5rem 0; max-width: 100%;">
+  <img src="https://res.cloudinary.com/tincre/image/upload/v1744319225/github/xi5uuw7ekblo3nlssuu2.gif" alt="Grupo 0x2a SAS" style="width:100%; display:block;" />
+</div>
 
 - **Teaching Assistant @ University of Chicago**  
   Teaching staff for the **FX Derivatives and Options** course in the Financial Mathematics MSc program.
