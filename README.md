@@ -7,19 +7,19 @@ I'm a quantitative software engineer, entrepreneur, and educator.
 - **Co-Founder @ [b00st.com](https://b00st.com)**  
   Building the #1 ad platform for music & entertainment. A [Tincre](https://tincre.com) product.
 
-<img src="https://res.cloudinary.com/tincre/image/upload/v1744319224/github/msssxcid4ft3xqk7xzsd.gif" width="400" height="799" style="border-radius:30px;" />
+<img src="https://res.cloudinary.com/tincre/image/upload/v1744319224/github/msssxcid4ft3xqk7xzsd.gif"  />
 
 
 - **Founder @ [Grupo 0x2a](https://grupo0x2a.com)**  
   A Colombian software and media company focused on organic marketing, SaaS, and digital production.
 
-<img src="https://res.cloudinary.com/tincre/image/upload/v1744319225/github/xi5uuw7ekblo3nlssuu2.gif" width="400" height="799" style="border-radius:30px;" />
+<img src="https://res.cloudinary.com/tincre/image/upload/v1744319225/github/xi5uuw7ekblo3nlssuu2.gif"  />
 
 
 - **Principal @ [Recondite Capital](https://reconditecapital.com)**  
   Transforming obscurity into value. Quantitative asset allocation, research, and software.
 
-<img src="https://res.cloudinary.com/tincre/image/upload/v1744320698/github/o6p4ucrgjdvyj94dembb.gif" width="400" height="799" style="border-radius:30px;" />
+<img src="https://res.cloudinary.com/tincre/image/upload/v1744320698/github/o6p4ucrgjdvyj94dembb.gif"  />
 
 - **Teaching Assistant @ University of Chicago**  
   Teaching staff for the **FX Derivatives and Options** course in the Financial Mathematics MSc program.
