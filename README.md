@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jason R. Stevens
+# 👋 Hi, I'm Jason R. Stevens, CFA
 
 I'm a quantitative software engineer, entrepreneur, and educator.
 
@@ -26,6 +26,7 @@ You'll see tools for dev, finance, marketing, and other automation — always bu
 - 🧠 [Recondite Capital](https://reconditecapital.com)
 - 🎵 [b00st.com](https://b00st.com)
 - 🧰 [grupo0x2a.com](https://grupo0x2a.com)
+- 🥂 [LinkedIn](https://linkedin.com/in/thinkjrs)
 
 ---
 > *"The process of pursuing values is in itself a value." -- Leonard Peikoff*
