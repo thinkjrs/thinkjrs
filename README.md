@@ -1,18 +1,31 @@
-### Hi there 👋
+# 👋 Hi, I'm Jason R. Stevens
 
-Catch me on <a rel="me" href="https://hachyderm.io/@thinkjrs">Mastodon</a>!
+I'm a quantitative software engineer, entrepreneur, and educator.
 
-<!--
-**thinkjrs/thinkjrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 What I Do
 
-Here are some ideas to get you started:
+- **Co-Founder @ [b00st.com](https://b00st.com)**  
+  Building the #1 ad platform for music & entertainment. A [Tincre](https://tincre.com) product.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Principal @ [Recondite Capital](https://reconditecapital.com)**  
+  Transforming obscurity into value. Quantitative asset allocation, research, and software.
+
+- **Founder @ [Grupo 0x2a](https://grupo0x2a.com)**  
+  A Colombian software and media company focused on organic marketing, SaaS, and digital production.
+
+- **Teaching Assistant @ University of Chicago**  
+  Supporting the **FX Derivatives** and **Options** courses in the Financial Mathematics MSc program.
+
+## 💻 What You'll Find Here
+
+You'll see tools for dev, finance, marketing, and other automation — always built with precision, purpose and simplicity. Rust, TypeScript, SQL, Next.js, React, Python and the occasional clever shell script.
+
+## 🗺️ Links
+
+- 🔗 [thinkjrs.dev](https://thinkjrs.dev) – my writing and side projects
+- 🧠 [Recondite Capital](https://reconditecapital.com)
+- 🎵 [b00st.com](https://b00st.com)
+- 🧰 [grupo0x2a.com](https://grupo0x2a.com)
+
+---
+> *"The process of pursuing values is in itself a value." -- Leonard Peikoff*
