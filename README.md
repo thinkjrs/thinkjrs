@@ -14,7 +14,7 @@ I'm a quantitative software engineer, entrepreneur, and educator.
   A Colombian software and media company focused on organic marketing, SaaS, and digital production.
 
 - **Teaching Assistant @ University of Chicago**  
-  Supporting the **FX Derivatives** and **Options** courses in the Financial Mathematics MSc program.
+  Teaching staff for the **FX Derivatives and Options** course in the Financial Mathematics MSc program.
 
 ## 💻 What You'll Find Here
 
